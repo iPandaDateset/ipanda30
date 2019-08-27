@@ -1,7 +1,7 @@
 # ipanda30 dataset
 This data set can be obtained in the following ways:  
 [BaiduNetDisk](http://www.baudu.com)  
-[GoolgelDrive]()  
+[GoolgelDrive](https://drive.google.com/file/d/15oN_PWWxmKknn8SSsOrFsslO9wYfgOB3/view?usp=sharing)  
 The iPanda-30 dataset consists of 3,552 images of 30 individual giant pandas with the number of images per panda between 54 and 220. It is randomly divided into the training set and testing set with 2,120 and 1,432 images, respectively.  
 The directory structure of iPanda-30 is as follows:  
 
