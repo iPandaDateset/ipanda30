@@ -3,7 +3,7 @@ This dataset can be obtained in the following ways:
 [BaiduNetDisk](https://pan.baidu.com/s/1YPI5KbAQK92gM7agvkWBpA)  
 [GoolgelDrive](https://drive.google.com/open?id=1ZVAyyZzKbRcr_cjUe79wsSrhJ2y5DUbs) 
 
-![](C:\Users\rizhi\Desktop\pdfs\ipanda30.png)
+
 **Figure:** Sample images and statistics of the iPanda30 dataset. Statistics are formatted as identity, #*images*  ( #*images-in-training*/#*images-in-testing* )
 
 The iPanda-30 dataset consists of 3,552 images of 30 individual giant pandas with the number of images per panda between 54 and 220.   
